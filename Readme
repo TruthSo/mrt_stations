@@ -1,0 +1,2 @@
+Python file to retreive all the MRT stations name,code, long and lat in Singapore.
+Refer from "https://www.mytransport.sg/content/mytransport/home/dataMall.html" and made some own changes. 
